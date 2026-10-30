@@ -1,0 +1,1 @@
+npm install @reduxjs/toolkit react-redux axios react-router-dom react-bootstrap bootstrap react-icons sweetalert2
